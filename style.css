@@ -43,6 +43,13 @@ body {
   text-decoration: none;
   display: block;
   perspective: 1000px;
+  outliney: none;
+  -webkit-tap-highlight-color: transparent;
+}
+.avatar-link:focus,
+.avatar-link:active {
+  outline: none;
+  box-shadow: none;
 }
 
 .avatar-wrapper {
@@ -54,6 +61,8 @@ body {
   transform-style: preserve-3d;
   box-shadow: 0 15px 35px rgba(0,0,0,0.2);
   transition: var(--transition);
+  user-select: none;
+  -webkit-user-drag: none;
 }
 
 .avatar {
