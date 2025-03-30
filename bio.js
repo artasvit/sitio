@@ -1,17 +1,17 @@
 const members = {
     1: {
-        name: "Tu nombre",
+        name: "Artem",
         bio: "Ваша биография...",
         img: "avatar1.png"
     },
     2: {
-        name: "Друг 1",
-        bio: "Биография друга 1...",
+        name: "Tu nombre",
+        bio: "Tu biografia...",
         img: "avatar2.jpg"
     },
     3: {
-        name: "Друг 2",
-        bio: "Биография друга 2...",
+        name: "Tu nombre",
+        bio: "Tu biografia...",
         img: "avatar3.jpg"
     }
 };
