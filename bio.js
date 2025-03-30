@@ -1,8 +1,7 @@
 const members = {
     1: {
         name: "Artem",
-        bio: "Me llamo Artem, tengo 18 años y me mudé a Buenos Aires hace un año y medio. Ahora estoy aprendiendo español para entrar a la universidad. Me interesa la informática, especialmente C++ y la programación competitiva. Me gusta resolver problemas difíciles y trabajar en mis propios proyectos.
-Me encanta entrenar en el gimnasio y cuido mi alimentación. También disfruto de buenas películas, especialmente del estilo de Seven y Sueños de libertad (The Shawshank Redemption).",
+        bio: "Me llamo Artem, tengo 18 años y me mudé a Buenos Aires hace un año y medio. Ahora estoy aprendiendo español para entrar a la universidad. Me interesa la informática, especialmente C++",
         img: "avatar1.jpg"
     },
     2: {
