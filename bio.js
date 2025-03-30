@@ -1,8 +1,8 @@
 const members = {
     1: {
-        name: "Ваше имя",
+        name: "Tu nombre",
         bio: "Ваша биография...",
-        img: "avatar1.jpg"
+        img: "avatar1.png"
     },
     2: {
         name: "Друг 1",
