@@ -25,6 +25,6 @@ document.addEventListener('DOMContentLoaded', () => {
         document.getElementById('bioName').textContent = member.name;
         document.getElementById('bioText').textContent = member.bio;
         document.getElementById('bioAvatar').src = member.img;
-        document.title = `${member.name} | Профиль`;
+        document.title = `${member.name} | Profile`;
     }
 });
