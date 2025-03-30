@@ -7,12 +7,12 @@ const members = {
     2: {
         name: "Tu nombre",
         bio: "Tu biografia...",
-        img: "avatar2.jpg"
+        //img: "avatar2.jpg"
     },
     3: {
         name: "Tu nombre",
         bio: "Tu biografia...",
-        img: "avatar3.jpg"
+        //img: "avatar3.jpg"
     }
 };
 
