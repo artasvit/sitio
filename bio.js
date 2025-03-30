@@ -6,7 +6,7 @@ const members = {
     },
     2: {
         name: "Tu nombre",
-        bio: "Tu biografia...",
+        bio: "Tu biografia",
         //img: "avatar2.jpg"
     },
     3: {
