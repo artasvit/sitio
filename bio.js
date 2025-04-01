@@ -6,7 +6,7 @@ const members = {
     },
     2: {
         name: "Mateo",
-        bio: "Hahahahhahahah",
+        bio: "Hola, mi nombre es Mateo, me gusta comer empanadas, jugar Brawl Stars y competir en Jerkmate. También me encanta rapear y ya he grabado varios discos.",
         img: "avatar2.jpg
     },
     3: {
