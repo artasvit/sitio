@@ -12,7 +12,7 @@
   scroll-behavior: smooth;
 }
 
-a, button, img {
+/*a, button, img {
   -webkit-tap-highlight-color: transparent;
   -webkit-touch-callout: none;
   -webkit-user-select: none;
@@ -21,7 +21,7 @@ a, button, img {
   -ms-user-select: none;
   user-select: none;
   text-decoration: none;
-}
+}*/
 
 body {
   min-height: 100vh;
