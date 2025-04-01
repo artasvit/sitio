@@ -5,14 +5,14 @@ const members = {
         img: "avatar1.jpg"
     },
     2: {
-        name: "Tu nombre",
+        name: "Mateo",
         bio: "Hahahahhahahah",
-        //img: "avatar2.jpg"
+        img: "avatar2.jpg
     },
     3: {
         name: "Lalo",
         bio: "hola, soy lalo, tengo 17 años y me gusta jugar al rugby y ir al gimnasio y tambien hacer planes con mis amigos. suka",
-        //img: "avatar3.jpg"
+        img: "avatar3.jpg"
     }
 };
 
