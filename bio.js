@@ -6,13 +6,13 @@ const members = {
     },
     2: {
         name: "Mateo",
-        bio: "rs y competir en Jerkmate. También me encanta rapear y ya he grabado varios discos.",
-        img: "avatar2.jpg"
+        bio: "Hola, mi nombre es Mateo, me gusta comer empanadas, jugar Brawl Stars y competir en Jerkmate. También me encanta rapear y ya he grabado varios discos.",
+        //img: "avatar2.jpg"
     },
     3: {
         name: "Lalo",
         bio: "hola, soy lalo, tengo 17 años y me gusta jugar al rugby y ir al gimnasio y tambien hacer planes con mis amigos. suka",
-        img: "avatar3.jpg"
+        //img: "avatar3.jpg"
     }
 };
 
