@@ -10,8 +10,8 @@ const members = {
         //img: "avatar2.jpg"
     },
     3: {
-        name: "Tu nombre",
-        bio: "Tu biografia...",
+        name: "Lalo",
+        bio: "hola, soy lalo, tengo 17 años y me gusta jugar al rugby y ir al gimnasio y tambien hacer planes con mis amigos. suka",
         //img: "avatar3.jpg"
     }
 };
